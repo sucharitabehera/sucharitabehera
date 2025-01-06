@@ -9,18 +9,20 @@ I am a passionate software engineer with a strong foundation in computer science
 ---
 
 ## Skills
-- Languages: Java, Python, JavaScript
-- Frameworks: Spring Boot, Django, React.js
-- Databases: MySQL, MongoDB
-- Tools & Technologies: Git, Docker, AWS
+- Languages: Java, Python, c
+- Frameworks: Pandas, numpy, TestNG, Pytest, Apache Spark,Apache Airflow,  Snowflake 
+- Databases: SQL, Matplotlib
+- Tools & Technologies: Git, Docker, AWS, Azure
+- Operating System : Windows, Linux
 
 ---
 
 ## Projects
-### E-Commerce Website
-- Developed a full-stack e-commerce website using React.js for the frontend and Node.js for the backend.
-- Implemented user authentication, product catalog, shopping cart functionality, and order processing.
-- Utilized MongoDB for database storage and integrated with Stripe for payment processing.
+### Automation in Python
+- Automated a website with features like the homepage, configuration page, dashboard, administration, and commit functionality.
+- using the Pytest framework and the Page Object Model (POM) for structured and efficient test automation.
+- The automation included generating reports, capturing screenshots, and maintaining logs.
+- Include test cases using test data to ensure functionality and reliability.
 
 ### Employee Management System
 - Built a Java-based employee management system for small businesses.
